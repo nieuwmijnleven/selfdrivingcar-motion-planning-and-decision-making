@@ -35,5 +35,5 @@ $> ./run_main.sh
 ```
 ## Experimental Results
 <kbd>
- <img src = "img/report/result.gif?raw=true" width=1280 />
+ <img src = "img/report/result.gif?raw=true" width=1280 height=640 />
 </kbd>
