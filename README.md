@@ -24,7 +24,8 @@ $> cd ./starter_files
 $> cmake .
 $> make
 ```
-### 5. Building this project
+### 5. Running this project
+```
 $> cd ../
 $> ./run_main.sh
 // This will silently fail
