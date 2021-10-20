@@ -34,8 +34,9 @@ $> ./run_main.sh
 $> ./run_main.sh
 ```
 ## Experimental Results
-** It takes times to load the result animation **
-** You can download the result animation directly from result/result.gif ** 
+**It takes times to load the result animation**
+
+**You can download the result animation directly from report/result.gif** 
 <kbd>
  <img src = "report/result.gif?raw=true" width=1280/>
 </kbd>
