@@ -33,3 +33,7 @@ $> ./run_main.sh
 // run 'run_main.sh' again
 $> ./run_main.sh
 ```
+## Experimental Results
+<kbd>
+ <img src = "img/report/result.gif?raw=true" width=1280 />
+</kbd>
